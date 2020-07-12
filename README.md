@@ -4,10 +4,10 @@
 
 
 - 🌱 I’m currently learning Computer Engineering  at Faculty of Engineering , University of Sri Jayewardenepura
+- 🔭 I’m interested IoT & Embedded Systems , ML/DL
 - 👯 I’m looking to collaborate on  projects on IoT & Embedded Systems, Deep Learning 
-
 - 📫 How to reach me: 
-                     [![Linkedin: Isursachitha](https://img.shields.io/badge/-isursachitha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isursachitha/)](https://www.linkedin.com/in/isursachitha/)[![Twitter: Isursachitha](https://img.shields.io/twitter/follow/isursachitha?style=social)](https://twitter.com/isursachitha)[![GitHub Isursachitha](https://img.shields.io/github/followers/isursachitha?label=follow&style=social)](https://github.com/isursachitha)
+                     [![Linkedin: Isursachitha](https://img.shields.io/badge/-isursachitha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isursachitha/)](https://www.linkedin.com/in/isursachitha/)[![Twitter: Isursachitha]](https://twitter.com/isursachitha)[![GitHub Isursachitha]](https://github.com/isursachitha)
                      
  
 
