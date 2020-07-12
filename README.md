@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Alt Text](https://giphy.com/gifs/how-are-you-u-r-eJjxj10CvW22SyyeZJ)
+![](https://media.giphy.com/media/eJjxj10CvW22SyyeZJ/source.gif)
 
 
 - 🔭 I’m currently working on ...
