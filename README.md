@@ -7,9 +7,11 @@
 - 👯 I’m looking to collaborate on  projects on IoT & Embedded Systems, Deep Learning 
 
 - 📫 How to reach me: 
-                     [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-                     [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-                     [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+                     [![Linkedin: Isursachitha](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isursachitha/)](https://www.linkedin.com/in/isursachitha/)
+                                          
+                     [![Twitter: Isursachitha](https://img.shields.io/twitter/follow/isursachitha?style=social)](https://twitter.com/isursachitha)
+
+                     [![GitHub Isursachitha](https://img.shields.io/github/followers/isursachitha?label=follow&style=social)](https://github.com/isursachitha)
                      
  
 
