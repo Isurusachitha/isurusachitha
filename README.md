@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on  projects on IoT & Embedded Systems, Deep Learning 
 - 📫 Reach me via  [![Linkedin: Isursachitha](https://img.shields.io/badge/-isursachitha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isursachitha/)](https://www.linkedin.com/in/isursachitha/)
                      
- 
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=isurusachitha)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Isurusachitha/isurusachitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
