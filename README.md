@@ -7,6 +7,7 @@
 - 🔭 I’m interested in Data Analytics , Machine Learning/Deep Learning , IoT & Embedded Systems 
 - 👯 I’m looking to collaborate on  projects on IoT & Embedded Systems, Deep Learning 
 - 📫 Reach me via  [![Linkedin: Isursachitha](https://img.shields.io/badge/-isursachitha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isursachitha/)](https://www.linkedin.com/in/isursachitha/)
+- ⚡ My Hobbies are  Reading , Listen to Music and Competitive Programming
                      
  [![Isuru's github stats](https://github-readme-stats.vercel.app/api?username=isurusachitha)](https://github.com/anuraghazra/github-readme-stats)
 
